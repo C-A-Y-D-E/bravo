@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-base bg-[#FFEDBE];
+  }
+}
+
+@font-face {
+  font-family: "Bremin";
+  src: url("/Bremin-Regular.woff2") format("woff2"),
+    url("/Bremin-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.shadw {
+  box-shadow: 4px 4px 0px #000000;
+}
