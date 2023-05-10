@@ -19,23 +19,23 @@ export default function Home() {
           <div className="flex  gap-6 justify-between flex-wrap lg:flex-nowrap">
             <div className="flex gap-4 items-center">
               <a
-                href=""
+                href="https://t.me/JohnnyBravoPortal"
                 target="_blank"
                 className="p-3 bg-[#FFCC00] border border-black rounded-full shadw"
               >
                 <FaTelegramPlane />
               </a>
               <a
-                href=""
+                href="https://twitter.com/JbravoCoin"
                 target="_blank"
                 className="p-3 bg-[#FFCC00] border border-black rounded-full shadw"
               >
                 <FaTwitter />
               </a>
             </div>
-            <CopyToClipboard value={"0x231cw....3aafa2"}>
+            <CopyToClipboard value="coming soon">
               <div className="flex gap-2 items-center">
-                <span>0x231cw....3aafa2</span>
+                <span>coming soon</span>
                 <FaCopy />
               </div>
             </CopyToClipboard>
