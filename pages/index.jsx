@@ -33,7 +33,7 @@ export default function Home() {
                 <FaTwitter />
               </a>
             </div>
-            <CopyToClipboard value="coming soon">
+            <CopyToClipboard text="coming soon">
               <div className="flex gap-2 items-center">
                 <span>coming soon</span>
                 <FaCopy />
