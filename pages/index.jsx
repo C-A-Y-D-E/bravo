@@ -33,9 +33,9 @@ export default function Home() {
                 <FaTwitter />
               </a>
             </div>
-            <CopyToClipboard text="coming soon">
+            <CopyToClipboard text="0x5e86075111f1d3a11270c376e89934e3f43e873a">
               <div className="flex gap-2 items-center">
-                <span>coming soon</span>
+                <span>0x5e86075...3f43e873a</span>
                 <FaCopy />
               </div>
             </CopyToClipboard>
